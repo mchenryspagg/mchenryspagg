@@ -1,7 +1,7 @@
 - 👋 Hi, I’m henry
-- 👀 I’m interested in R programming
-- 🌱 I’m currently learning SQL, and R
-- 💞️ I’m looking to collaborate on Data analysis and R programming
+- 👀 I’m interested in R programming, and SQL
+- 🌱 I’m currently learning HTML, CSS, Javascript and Python
+- 💞️ I’m looking to collaborate on Data analysis and web development
 - 📫 How to reach me ...message me
 
 <!---
