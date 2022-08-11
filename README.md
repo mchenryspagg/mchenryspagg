@@ -17,7 +17,7 @@ utilized effectively to solve business problems. I am relatively new into the wo
 - 🌱 I’m currently learning JavaScript, Reactjs, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Data Analyst, Business Analyst, Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://www.linkedin/in/henry-okam) and contact me by emailing mailto:hnry_ugo@yahoo.com.
+- 📫 You can [view my resume](https://www.linkedin/in/henry-okam) and contact me via [mail](mailto:hnry_ugo@yahoo.com).
 
 ---
 
