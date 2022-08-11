@@ -21,8 +21,7 @@ utilized effectively to solve business problems. I am relatively new into the wo
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mchenryspagg&show_icons=true&include_all_commits=true&hide_border=true" alt="Henry's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchenryspagg&langs_count=8&layout=compact&hide_border=true" alt="Henry's GitHub stats" /> | <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={mchenryspagg}&theme=vue" alt="Henry's summary card" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user={mchenryspagg}" alt="Henry's streak stats" /> | <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{mchenryspagg}1212%2Fhit-counter" alt="Henry's count badge" /> 
-
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mchenryspagg&show_icons=true&include_all_commits=true&hide_border=true" alt="Henry's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchenryspagg&langs_count=8&layout=compact&hide_border=true" alt="Henry's GitHub stats" />  
 | ------------- | ------------- |
 
 
