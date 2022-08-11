@@ -7,6 +7,7 @@
 I'm a Data Analyst and also a prospective software Engineer  who currently works as a Data Analyst at [BEDC Electricity Plc](http://bedcpower.com/). I'm passionate about sharing knowledge, and solving problems in the world, hence my journey into software engineering. I also love data and maths and making sense how it can be 
 utilized effectively to solve business problems. I am relatively new into the world of software Engineering, and during the period of my practice and learning, i have been able to build some useful [open-source projects](https://github.com/mchenryspagg), written some [research papers](https://sites.google.com/view/mchenrys-portfolio/about-me) also carried out some data analysis [capstone projects](https://sites.google.com/view/mchenrys-portfolio/recent-projects/google-analytics-capstone-project), whilst contributing in building in some technical communities...
 
+
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
