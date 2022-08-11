@@ -25,7 +25,7 @@ I'm a software Engineer in training (Frontend) and also a data analyst who curre
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mchenryspagg&show_icons=true&include_all_commits=true&hide_border=true" alt="Henry's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchenryspagg&langs_count=8&layout=compact&hide_border=true" alt="Henry's GitHub stats" />  <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{mchenryspagg}1212%2Fhit-counter" alt="Henry's profile hits" />
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mchenryspagg&show_icons=true&include_all_commits=true&hide_border=true" alt="Henry's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchenryspagg&langs_count=8&layout=compact&hide_border=true" alt="Henry's GitHub stats" /> | <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{mchenryspagg}1212%2Fhit-counter" alt="Henry's profile hits" />
 | ------------- | ------------- |
 
 
