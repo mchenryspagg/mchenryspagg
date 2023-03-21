@@ -10,8 +10,7 @@ I'm a data analyst/business analyst and also a software Engineer in training (Fr
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at WorldQuant University's [Applied Data Science](https://learn.wqu.edu/) Class of 2022.  
--    Also learning data analyst with python at I4G 2022/2023 6-month datacamp scholarship access.
+- 💡 Fun fact: I'm currently studying at WorldQuant University's [Applied Data Science](https://learn.wqu.edu/) Class of 2022.  Also learning data analyst with python at I4G 2022/2023 6-month datacamp scholarship access.
      I'm also learning Salesforce Administration with ALX's Salesforce-pivot set at [Trailhead](trailhead.salesforce.com). Check out my progress so far [here](https://trailblazer.me/id/henryokam)
 - 👀 I’m interested in data analysis, business intelligence, and salesforce administration. Also interested in software development (frontend Development)
 - 🌱 I’m currently learning Python, Tableau, Power BI, & Salesforce Navigation.
