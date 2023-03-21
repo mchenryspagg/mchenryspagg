@@ -10,12 +10,13 @@ I'm a data analyst/business analyst and also a software Engineer in training (Fr
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at WorldQuant University [Applied Data Science](https://learn.wqu.edu/) Class of 2022.
-     Also studying at Udacity in the Next Gen Tech Booster Scholarship [Programming for Data Science Nanodegree](https://sites.google.com/udacity.com/nextgenerationtechboosterschol/data-science) Class of 2022/2023.
-- 👀 I’m interested in data analysis and data science. Also interested in software development (frontend Development)
-- 🌱 I’m currently learning Python, SQL, JavaScript, and Reactjs.
+- 💡 Fun fact: I'm currently studying at WorldQuant University's [Applied Data Science](https://learn.wqu.edu/) Class of 2022.  
+-    Also learning data analyst with python at I4G 2022/2023 6-month datacamp scholarship access.
+     I'm also learning Salesforce Administration with ALX's Salesforce-pivot set at [Trailhead](trailhead.salesforce.com). Check out my progress so far [here](https://trailblazer.me/id/henryokam)
+- 👀 I’m interested in data analysis, business intelligence, and salesforce administration. Also interested in software development (frontend Development)
+- 🌱 I’m currently learning Python, Tableau, Power BI, & Salesforce Navigation.
 - 😊 I’m looking to collaborate in open source projects, and i'm open to hackathons, internships, and job opportunities.
-- 💼 Job interests: Data Analyst, and Business Analyst (Intern, Junior, or Intermediate level).
+- 💼 Job interests: Data Analyst, and Business Intelligence Analyst (Intern, Junior, or Intermediate level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/149esMN-vKClARvZPw1L4APyHhfAgoA3d/view?usp=share_link) and contact me via [mail](mailto:hnry_ugo@yahoo.com).
 
 ---
