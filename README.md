@@ -16,7 +16,7 @@ I'm a data analyst/business analyst and also a software Engineer in training (Fr
 - 🌱 I’m currently learning Python, Tableau, Power BI, & Salesforce Navigation.
 - 😊 I’m looking to collaborate in open source projects, and i'm open to hackathons, internships, and job opportunities.
 - 💼 Job interests: Data Analyst, and Business Intelligence Analyst (Intern, Junior, or Intermediate level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1wYlUsEuUZvh9Is7ZxvgySYSSBW6AwLQU/view?usp=sharing) and contact me via [mail](mailto:hnry_ugo@yahoo.com).
+- 📫 You can [view my resume](https://docs.google.com/document/d/1iflqKHgBhGqF_kHZHikRX3h6K963_MJ5/edit?usp=sharing&ouid=104522032333493932576&rtpof=true&sd=true) and contact me via [mail](mailto:hnry_ugo@yahoo.com).
 
 ---
 ## Tools and Languages
