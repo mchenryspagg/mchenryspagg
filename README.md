@@ -10,9 +10,9 @@ I'm a data analyst and also a salesforce certified administrator who currently w
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at ALX's AI Career Essentials [AICE](https://www.alxafrica.com/programme/career-ready-skills-training/) Class of July 2024. I am currently enrolled in [HNG's Internship](https://info.hotels.ng/l/T0JU7638CJ99UtrbDjt19uog/yzMyMpcYHa1C1kGLUrbYXA/h1B1QuVVQHSv2rk6892M6jKg)  I am also learning Python at Datacamp and Udacity.
+- 💡 Fun fact: I was previously studying at ALX's AI Career Essentials [AICE](https://www.alxafrica.com/programme/career-ready-skills-training/) Cohort 5. I just completed [HNG](https://hng.tech/) 11 and ended as a Finalist - Data Analyst Track.  I am also learning Machine Learning at Datacamp and Udacity.
 - 👀 I’m interested in data science, Artificial Intelligence, and salesforce administration.
-- 🌱 I’m currently learning Python, Tableau, Power BI, & Artificial Intelligence.
+- 🌱 I’m currently learning Machine Learning, Python, Tableau, Power BI, & Artificial Intelligence.
 - 😊 I’m looking to collaborate in open source projects, and I'm open to hackathons, internships, and job opportunities.
 - 💼 Job interests: Data Analyst, Business Intelligence Analyst (Intermediate level or Senior level); Salesforce Administrator/Salesforce Data Analyst (Junior or Intern roles)
 - 📫 You can [view my resume](https://docs.google.com/document/d/1iflqKHgBhGqF_kHZHikRX3h6K963_MJ5/edit?usp=sharing&ouid=104522032333493932576&rtpof=true&sd=true) and contact me via [mail](mailto:hnry_ugo@yahoo.com).
